@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![imfaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfaj&show_icons=true&theme=buefy)](https://github.com/imfaj/github-readme-stats)
+[![imfaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfaj&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/imfaj/github-readme-stats)
