@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  
 [![imfaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfaj&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/imfaj/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfaj&layout=compact&theme=buefy)](https://github.com/imfaj/github-readme-stats)
+
+</p>
